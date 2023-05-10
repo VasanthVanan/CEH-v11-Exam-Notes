@@ -2,7 +2,9 @@
 
 This repository contains detailed notes to help you prepare for the Certified Ethical Hacker (CEH) v11 exam. 
 
-## Table of Contents:
+## Study-Notes (GoodNotes):
+
+### Table of Contents:
 
 The following table provides an overview of the contents covered in this repository:
 
@@ -22,11 +24,13 @@ The following table provides an overview of the contents covered in this reposit
   | Module 19    | [Cloud Computing](https://github.com/VasanthVanan/CEH-v11-Exam-Notes/blob/main/Chapters/Chapter%2019.%20Cloud%20Computing.pdf)                                         |
   | Module 20    | [Cryptography](https://github.com/VasanthVanan/CEH-v11-Exam-Notes/blob/main/Chapters/Chapter%2020.%20Cryptography.pdf)                                            |
 
-## Additional Resources:
+## Study-Notes (Notion):
 
 In addition to the notes provided in this repository, I have provided remaining notes on Notion:<br>
   https://vasanth-vanan.notion.site/CEH-Notes-8d30750ee28b4d439923f0d8cb36ff05
   
+### Table of Contents:
+
   | Chapters | Contents |
   |--------------|---------------------------------------------------------|
   | Module 1     | Overview of Ethical Hacking and Information Security    |
