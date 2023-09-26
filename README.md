@@ -1,6 +1,8 @@
 # CEH-v11-Exam-Notes
 
-This repository contains detailed notes to help you prepare for the Certified Ethical Hacker (CEH) v11 exam. 
+This repository contains detailed notes to help you prepare for the Certified Ethical Hacker (CEH) v11 exam.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Study-Notes (GoodNotes):
 
@@ -23,6 +25,8 @@ The following table provides an overview of the contents covered in this reposit
   | Module 18    | [IoT and OT Hacking](https://github.com/VasanthVanan/CEH-v11-Exam-Notes/blob/main/Chapters/Chapter%2018.%20IoT%20and%20OT%20Hacking.pdf)                                      |
   | Module 19    | [Cloud Computing](https://github.com/VasanthVanan/CEH-v11-Exam-Notes/blob/main/Chapters/Chapter%2019.%20Cloud%20Computing.pdf)                                         |
   | Module 20    | [Cryptography](https://github.com/VasanthVanan/CEH-v11-Exam-Notes/blob/main/Chapters/Chapter%2020.%20Cryptography.pdf)                                            |
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Study-Notes (Notion):
 
